@@ -46,7 +46,6 @@ Google Planilhas · GitHub · Markdown · Mermaid
 | preco_unitario_brl | número | preço por unidade (R$) |
 | valor_total_brl | número | quantidade × preço (R$) |
 
-## O que aprendi
-[2 frases sinceras]
+
 
 > Dados fictícios, criados para estudo.
